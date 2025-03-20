@@ -11,7 +11,8 @@ TOKEN = "7649099172:AAFiOtTXesBcrhjwKJ4Lz9phWGWMnomphTE"
 ADMIN_CHAT_ID = -4701444470
 
 # Initialize bot
-bot = telebot.TeleBot()
+bot = telebot.TeleBot(7649099172:AAFiOtTXesBcrhjwKJ4Lz9phWGWMnomphTE)
+)
 
 # Function to check if input is a valid IP address
 def is_valid_ip(ip):
